@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "気絶するほど悩ましい",
+  "base_artist": "Char",
+  "createdAt": "2025-12-31T08:51:30.335199Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "気絶するほど悩ましい",
+      "artist": "Char",
+      "has_synced": true,
+      "path": "select/01_気絶するほど悩ましい_Char.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "気絶するほど悩ましい",
+      "artist": "Char",
+      "has_synced": false,
+      "path": "select/pl_01_気絶するほど悩ましい_Char.txt"
+    }
+  ]
+}
